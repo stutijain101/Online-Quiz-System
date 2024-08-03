@@ -117,16 +117,6 @@ This also makes checking the answer easy and error proof as computers are more a
    Login Id: admin@admin.com
    Password: admin
 
-    
-
-
-## Screenshots
-
-
-
-## Demo
-
-
 
 ## Feedback
 
